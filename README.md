@@ -1,3 +1,5 @@
+https://dev.azure.com/ezozkme/swnzen/_apis/build/status/mehmetozkaya.pipelines-dotnet-core?branchName=master
+
 [![Build Status](https://dev.azure.com/ezozkme/swnzen/_apis/build/status/mehmetozkaya.pipelines-dotnet-core?branchName=master)](https://dev.azure.com/ezozkme/swnzen/_build/latest?definitionId=1&branchName=master)
 
 # Sample ASP.NET Core application for Azure Pipelines docs
